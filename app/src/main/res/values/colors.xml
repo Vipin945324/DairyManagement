@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#0E47A0</color>
+    <color name="primaryColor2">#C33848A6</color>
+    <color name="editboxcolor">#EAE7E7</color>
+    <color name="editboxcolor2">#EAE7E7</color>
+    <color name="toggleiconcolor">#7C7979</color>
+    <color name="transparentcolr">#80070606</color>
+    <color name="invoicecolor">#01A607</color>
+    <color name="loginpagebgcolor">#E3F1FC</color>
+    <color name="redbtnColor">#E7433F</color>
+    <color name="addProductbtncolor">#4CB050</color>
+    <color name="primaryColor3">#9EBEF1</color>
 </resources>
